@@ -1,4 +1,4 @@
-### 42 School, AI & Cyber enthusiast 👋
+### 42 School, AI & Cyber enthusiast
 
 <!--
 **hhadihh/HHADIHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
